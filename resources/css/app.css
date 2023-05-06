@@ -1,0 +1,9 @@
+/*@import "bootstrap/dist/css/bootstrap.css";*/
+@import "perfect-scrollbar/css/perfect-scrollbar.css";
+@import "daterangepicker.css";
+@import "custom.css";
+/*@import "navbar.css";*/
+
+.prod_cards:hover {
+    border: 5px solid #0164d8;
+}

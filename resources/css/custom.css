@@ -1,0 +1,69 @@
+.logoo {
+  display: flex;
+    justify-content: start;
+}
+
+.logoo p {
+    color: #005fd8;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 50px;
+    font-weight: bold;
+    border: 3px solid #005fd8;
+    border-radius: 20px;
+    padding: 0;
+}
+
+.h2rent {
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+
+.h2rentDiv {
+    display: flex;
+    justify-content: start;
+    margin-top: 100px;
+    margin-left: 145px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.mainContainerBus {
+    width: 98%;
+    background-color: white;
+    height: 600px;
+    border-radius: 10px;
+}
+
+
+
+.busBaseConfigurationParams  .colBP {
+    border: 1px solid white;
+    background-color: green;
+}
+
+
+.scrolingDivs {
+    width: 100%;
+    height: 300px;
+    /*overflow-y: scroll;*/
+}
+
+.scrolingDivs button {
+    height: 60px;
+}
+
+.custom_filtration {
+    width: 240%;
+    height: auto;
+}
+

@@ -1,0 +1,28 @@
+.navbarDiv {
+    display: flex;
+    justify-content: center;
+}
+
+/*.navbarCustomCss {*/
+/*    background-color: orange;*/
+/*    width: 600px;*/
+/*    border-radius: 50px;*/
+/*    height: 60px;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*}*/
+
+.navbarCustomCss a {
+    background-color: orange;
+    text-align: center;
+    width: 500px;
+    height: 70px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.navbarCustomCss a:hover {
+    color: black;
+    background-color: white;
+}
