@@ -7,5 +7,5 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<p>The simple cars filtering website. Mainly used Jquery and Bootstrap 5</p>
+<p>The cars simple filtering website. Mainly used Jquery and Bootstrap 5</p>
 <a href='https://laravelprojects-2.myfreedomainn.in/'>Simple filtering website</a>
